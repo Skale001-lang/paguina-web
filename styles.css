@@ -1,0 +1,36 @@
+.header-text {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 10vh;
+    color: RGB(165, 174, 253);
+    background-color: RGB(37, 37, 56);
+}
+
+img {
+    text-align: center;
+    justify-content: center;
+    align-items: flex-start;
+}
+h2 {
+    color: rgb(238, 115, 152);
+}
+body {
+    height: 10vh;
+    color: RGB(165, 174, 253);
+    background-color: RGB(37, 37, 56);
+}
+
+.acerca {
+    
+    height: 10vh;
+    color: RGB(165, 174, 253);
+    background-color: RGB(37, 37, 56);
+}
+
+.end {
+    font-style: italic;
+    height: 10vh;
+    color: RGB(165, 174, 253);
+    background-color: RGB(37, 37, 56);
+}
